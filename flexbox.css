@@ -1,0 +1,20 @@
+body {
+  background-color: red;
+}
+
+
+
+.column {
+  /* width: 900px; */
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.image-container {
+  background: red;
+  border: solid 10px green;
+  padding-right: 40px;
+}
